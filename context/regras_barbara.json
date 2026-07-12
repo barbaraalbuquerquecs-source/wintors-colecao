@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "descricao": "Espelho versionado das regras e correções da Barbara que valem pro departamento de Coleção. Sessões na nuvem (sem memória local do Claude) leem daqui.",
+    "atualizado": "2026-07-12"
+  },
+  "regras": [
+    { "id": "RB-01", "regra": "BR-first: sinal global sozinho nunca é FORTE sem eco BR; sinal BR pode ser FORTE sozinho. 'Uma coisa global não quer dizer que chegou no Brasil.'", "data": "2026-07-11" },
+    { "id": "RB-02", "regra": "Benchmark sempre em BRL/mercado BR primeiro — nunca ancorar em dólar.", "data": "2026-07" },
+    { "id": "RB-03", "regra": "Fazer o dever de casa antes de opinar: puxar dado/memória antes de dar posição; declarar confiança + gatilho de mudança; distinguir 'atualizei por dado' de 'cedi'.", "data": "2026-07" },
+    { "id": "RB-04", "regra": "Output em 1 tela, decisões e não observações; sem preâmbulo.", "data": "2026-07" },
+    { "id": "RB-05", "regra": "Viés pró-relançamento e pró-básico enquanto o caixa não folga (operação no vermelho, meta R$10k/mês até nov/2026).", "data": "2026-07-10" },
+    { "id": "RB-06", "regra": "Dor de identificação local (Ceará): toda proposta de coleção responde 'essa proposta cabe em alguém que se vê como daqui?' — sem abrasileirar/descaracterizar o DNA.", "data": "2026-07-10" },
+    { "id": "RB-07", "regra": "Esportes rastreados são só os 5 de context/esportes.json; a lista só muda com aprovação dela.", "data": "2026-07-12" },
+    { "id": "RB-08", "regra": "Grade rasa (1-2 un/variante): 'esgotou' ≠ 'não vendeu' — nenhuma leitura de giro é aceita sem essa separação feita.", "data": "2026-07-10" },
+    { "id": "RB-09", "regra": "Pesquisa web precisa de arquitetura de passadas + barra mínima de buscas + trilha auditável, não só critério de julgar fonte.", "data": "2026-07" },
+    { "id": "RB-10", "regra": "Nada é salvo no Google Drive — Drive é só fonte de leitura (WGSN). Outputs ficam neste repo + GitHub.", "data": "2026-07-12" },
+    { "id": "RB-11", "regra": "Feedbacks de pessoas próximas são registrados no ledger context/feedbacks.json; todos os robôs leem no preflight; o Robô 6 discute cada feedback aberto antes de propor.", "data": "2026-07-12" },
+    { "id": "RB-12", "regra": "Robô 2 (concorrentes): resultado ordenado por mais vendidos + novidades por marca; sempre com link; imagem best-effort (garantida no PC).", "data": "2026-07-12" }
+  ]
+}

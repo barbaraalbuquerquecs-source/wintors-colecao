@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "descricao": "Ledger de feedbacks de pessoas próximas à Barbara (cliente, amiga, família) sobre peças, caimento, cor, preço, marca. TODO robô lê os status 'novo' no preflight; o Robô 6 discute cada um com a Barbara antes de propor.",
+    "registro": "data · quem · sobre (peça/esporte/geral) · o_que_disse · status",
+    "status_possiveis": ["novo", "discutido", "incorporado", "descartado"],
+    "regra": "Registrar na hora, em qualquer chat, via /colecao-feedback ou 'anota esse feedback'. Só o Robô 6 (com a Barbara) muda status, registrando motivo."
+  },
+  "feedbacks": []
+}

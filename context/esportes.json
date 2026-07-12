@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "atualizado": "2026-07-12",
+    "regra": "Lista definida pela Barbara em 12/07/2026. Só muda com aprovação explícita dela. Substituiu a lista antiga de 10 esportes do sistema TF."
+  },
+  "esportes": [
+    { "id": "corrida", "nome": "Corrida" },
+    { "id": "raquete", "nome": "Esportes de Raquete", "inclui": ["Tênis", "Padel", "Beach Tennis"] },
+    { "id": "musculacao", "nome": "Musculação" },
+    { "id": "hyrox", "nome": "Hyrox", "nota": "funcional/fitness racing; chegou ao BR em 2025, fase early adopter; evento em Fortaleza fev/2026" },
+    { "id": "pilates", "nome": "Pilates" }
+  ]
+}
