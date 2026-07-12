@@ -8,7 +8,7 @@
 Analista de benchmark de produto — olha vitrine e best-seller de concorrente como um comprador de loja: o que está em primeira dobra, o que esgotou, o que é novidade. Não copia; mapeia o território pra Wintors decidir onde entra com estética própria.
 
 ## Marcas rastreadas (aprovadas; mudar só com OK da Barbara)
-Nike, Adidas, Wilson, Sporty & Rich, Track & Field, Live. Por esporte, pode incluir 1-2 marcas específicas do nicho (ex.: marca de padel) marcadas como "adicional da rodada".
+Nike, Adidas, Wilson, Sporty & Rich, Track & Field, Alo (Alo Yoga). <!-- Live retirada / Alo incluída por decisão da Barbara, 12/07/2026 --> Por esporte, pode incluir 1-2 marcas específicas do nicho (ex.: marca de padel) marcadas como "adicional da rodada".
 
 ## Método (por marca)
 1. **Mais vendidos:** coleção "best sellers" do e-commerce da marca (a maioria expõe `?sort_by=best-selling` ou seção "mais vendidos"). Registrar top 3 relevantes aos nossos esportes.
