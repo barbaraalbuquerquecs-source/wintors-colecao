@@ -1,0 +1,38 @@
+{
+  "_meta": { "data": "2026-07-13", "fonte": "Shopify MCP ao vivo", "janelas": ["12m", "6m"], "receita_12m": 15959, "pedidos_12m": 51, "unidades_6m": 64 },
+  "top_receita_12m": [
+    { "peca": "Top Tank Biodegradável com Bolso", "tipo": "top", "genero": "feminino", "receita": 2366, "pedidos": 11, "st_6m": 0.13, "estoque": 48 },
+    { "peca": "Short Majors Cintura Alta", "tipo": "short", "genero": "feminino", "receita": 1326, "pedidos": 7, "st_6m": 0.22, "estoque": 21 },
+    { "peca": "T-Shirt Classic Algodão", "tipo": "camiseta", "genero": "unissex", "receita": 1184, "pedidos": 10, "st_6m": 0.04, "estoque": 43 },
+    { "peca": "Short Masculino SportClub Compressão", "tipo": "short", "genero": "masculino", "receita": 1156, "pedidos": 2, "st_6m": 0.13, "estoque": 20 },
+    { "peca": "Short Feminino SportClub Compressão", "tipo": "short", "genero": "feminino", "receita": 1036, "pedidos": 5, "st_6m": 0.08, "estoque": 12 }
+  ],
+  "mix_por_tipo_12m": {
+    "short": { "share_receita": 0.31, "share_catalogo": 0.25 },
+    "camiseta": { "share_receita": 0.28, "share_catalogo": 0.21 },
+    "top_regata": { "share_receita": 0.20, "share_catalogo": 0.14 },
+    "polo": { "share_receita": 0.05, "share_catalogo": 0.18 },
+    "saia": { "share_receita": 0.04, "share_catalogo": 0.04 },
+    "acessorios": { "share_receita": 0.04, "share_catalogo": 0.11 },
+    "moletom_manga_longa": { "share_receita": 0.04, "share_catalogo": 0.07 },
+    "legging": { "share_receita": 0.01, "share_catalogo": 0.04 },
+    "calca": { "share_receita": 0.0, "share_catalogo": 0.04 }
+  },
+  "genero_12m": { "feminino": 0.49, "masculino": 0.23, "unissex": 0.28 },
+  "esporte": "NAO_MEDIVEL — produtos sem tag de esporte no Shopify; taggear é pré-requisito do corte esporte×genero",
+  "abc": { "classe_A": ["Top Tank Bio", "Short Majors", "T-Shirt Classic Algodão", "Short Masc SC", "Short Fem SC"], "share_A": 0.46, "nota": "curva mais rasa que 80/20 — catálogo pequeno" },
+  "sazonalidade": { "status": "historico_insuficiente", "melhor_mes": { "mes": "2026-06", "receita": 4302, "pedidos": 14 }, "buracos": ["2025-10", "2026-01", "2026-04"] },
+  "sell_through_6m_destaques": { "melhores": { "Camiseta American Raglan Masculina": 0.55, "T-shirt copa": 0.46, "Boné": 0.375, "Short Savile Masc": 0.30 }, "piores_com_estoque": { "T-Shirt Classic Algodão": 0.04, "Camiseta SportClub Bio": 0.07, "Short Fem SC": 0.08, "Legging": 0.09, "Top Tank Bio": 0.13 } },
+  "apontamentos": [
+    { "id": 1, "fato": "Raglan Masc G/GG zerados nas 2 cores com ST 55% — reposição de grade", "tipo": "reposicao" },
+    { "id": 2, "fato": "Top Tank Bio: branco 21 un paradas, azul-marinho zerou P/GG — profundidade na cor errada", "tipo": "cor" },
+    { "id": 3, "fato": "Classic Algodão 43 un paradas, ST 4% — maior capital parado", "tipo": "capital_parado" },
+    { "id": 4, "fato": "Calça Corte Reto R$389: 0 venda/12m, 7 un — capital parado no preço-teto", "tipo": "capital_parado" },
+    { "id": 5, "fato": "Polo: 18% do catálogo, 5% da receita, 3 SKUs sem venda em 6m — sobre-representado", "tipo": "mix" },
+    { "id": 6, "fato": "Saia esgotou M/G (sinal positivo mascarado) — 2 pedidos/R$656 em grade rasa", "tipo": "reposicao_candidata" },
+    { "id": 7, "fato": "Copa (conceito) ST 46%, marinho esgotado — papel cumprido", "tipo": "validacao" },
+    { "id": 8, "fato": "Meia ativa com estoque 0", "tipo": "operacional" },
+    { "id": 9, "fato": "Zeros concentram em P fem e G/GG masc; M sobra — profundidade por tamanho desalinhada da venda", "tipo": "grade" },
+    { "id": 10, "fato": "Catálogo com dezenas de produtos-teste/rascunho poluindo analytics + 2 produtos vendendo fora da lista ativa", "tipo": "higiene" }
+  ]
+}
