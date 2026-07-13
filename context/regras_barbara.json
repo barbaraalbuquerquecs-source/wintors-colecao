@@ -15,6 +15,7 @@
     { "id": "RB-09", "regra": "Pesquisa web precisa de arquitetura de passadas + barra mínima de buscas + trilha auditável, não só critério de julgar fonte.", "data": "2026-07" },
     { "id": "RB-10", "regra": "Nada é salvo no Google Drive — Drive é só fonte de leitura (WGSN). Outputs ficam neste repo + GitHub.", "data": "2026-07-12" },
     { "id": "RB-11", "regra": "Feedbacks de pessoas próximas são registrados no ledger context/feedbacks.json; todos os robôs leem no preflight; o Robô 6 discute cada feedback aberto antes de propor.", "data": "2026-07-12" },
-    { "id": "RB-12", "regra": "Robô 2 (concorrentes): resultado ordenado por mais vendidos + novidades por marca; sempre com link; imagem best-effort (garantida no PC).", "data": "2026-07-12" }
+    { "id": "RB-12", "regra": "Robô 2 (concorrentes): resultado ordenado por mais vendidos + novidades por marca; sempre com link; imagem best-effort (garantida no PC).", "data": "2026-07-12" },
+    { "id": "RB-13", "regra": "Robô 2 (concorrentes) — correção após 1ª rodada falha (13/07/2026): (a) buscar esporte por esporte E dividido por gênero (masculino/feminino) dentro de cada marca, não só uma categoria genérica; (b) excluir calçado/tênis e acessórios (bolsa, boné, etc.) — só peça de vestuário; (c) screenshot é obrigatório quando roda no PC com Chrome (não best-effort) e a leitura da peça tem que vir de OLHAR a imagem, não só do nome; (d) cada peça precisa de análise real — tecido/material, funcionalidades técnicas, estética, e onde encaixaria no mix da Wintors — não só nome+preço+link.", "data": "2026-07-13" }
   ]
 }

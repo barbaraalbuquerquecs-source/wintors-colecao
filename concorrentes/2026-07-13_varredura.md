@@ -1,3 +1,5 @@
+> ⚠️ **RODADA COM FALHAS — corrigido em RB-13 (13/07/2026).** Este arquivo não separou por esporte×gênero, incluiu calçado, não capturou screenshot e não tem análise de tecido/função/estética/mix por peça. Mantido como histórico da 1ª tentativa; não usar como baseline confiável pro Robô 6. Refazer na próxima rodada seguindo o dossiê corrigido.
+
 # Varredura de Concorrentes — 13/07/2026
 
 > Fontes: sites oficiais das marcas, navegados ao vivo (Chrome, 13/07/2026). Câmbio usado para marcas em USD: ~R$5,50/US$ (referência do dia, não é câmbio comercial exato). Imagem: não capturada nesta rodada (rodei sem tirar/salvar screenshot por item — só texto+link). Cobertura por esporte: nesta rodada as marcas generalistas (Nike, Adidas, Alo) só renderam sinal forte em Corrida e, no caso da Alo, um drop de Raquete/tênis; Wilson cobriu Raquete; Track&Field cobriu Corrida e Treino. Musculação, Hyrox e Pilates ficaram sem sinal específico nas 6 marcas nesta passada — não inventado, registrado como "sem sinal novo".
