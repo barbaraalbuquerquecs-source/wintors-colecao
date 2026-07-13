@@ -1,0 +1,7 @@
+{
+  "_meta": {
+    "descricao": "Ledger de decisões de coleção do Robô 6. Toda proposta vira registro com id e status; a cobrança da rodada seguinte parte daqui, não da releitura do relatório antigo.",
+    "ciclo_de_vida": "proposta → aprovada → em_producao → lancada → medindo → concluida | abandonada"
+  },
+  "decisoes": []
+}
