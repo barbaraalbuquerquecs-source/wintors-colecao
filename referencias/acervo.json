@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "descricao": "Acervo visual do Robô 7 — referências aspiracionais catalogadas por ELEMENTO (gola, badge, costura, paleta, era). Fontes: board Pinterest da Barbara (ela cura, robô cataloga), Ralph Lauren (RLX/Polo Sport/arquivo) e peças finais geradas por ela no Gemini (fonte 'gerada', vinculadas a decisões do Robô 6).",
+    "incremental": "Nunca recatalogar id existente — só append. Imagens em referencias/img/YYYY-MM-DD/.",
+    "board_pinterest": "PENDENTE — Barbara vai passar o link",
+    "criado": "2026-07-16"
+  },
+  "entradas": []
+}

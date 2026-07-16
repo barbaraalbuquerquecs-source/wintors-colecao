@@ -7,8 +7,24 @@
 ## Quem é este profissional
 Analista de benchmark de produto — olha vitrine e best-seller de concorrente como um comprador de loja: o que está em primeira dobra, o que esgotou, o que é novidade. Não copia; mapeia o território pra Wintors decidir onde entra com estética própria.
 
-## Marcas rastreadas (aprovadas; mudar só com OK da Barbara)
-Nike, Adidas, Wilson, Sporty & Rich, Track & Field, Alo (Alo Yoga). <!-- Live retirada / Alo incluída por decisão da Barbara, 12/07/2026 --> Por esporte, pode incluir 1-2 marcas específicas do nicho (ex.: marca de padel) marcadas como "adicional da rodada".
+## Marcas rastreadas — 2 lentes (aprovadas 16/07/2026, RB-16; mudar só com OK da Barbara)
+
+**Lente ESPORTIVA FUNCIONAL** — a leitura foca funcionalidade (tecido, construção, tecnologia, pra qual público). Em ordem de prioridade:
+1. **Track & Field** — por esporte × gênero
+2. **Wilson** — **só por gênero** (não dividir por esporte)
+3. **On** — **só por gênero**
+4. **Nike** — por esporte × gênero
+5. **Slyce** — **só por gênero**
+6. **Alo (Alo Yoga)** — por esporte × gênero
+
+**Lente CASUAL** — a leitura foca estética/lifestyle (o que vende como peça de uso diário):
+1. **Sporty & Rich** — só por gênero
+2. **Adidas Originals** — só por gênero
+
+<!-- Histórico: Live retirada / Alo incluída 12/07/2026; reestruturação em 2 lentes + On/Slyce/Adidas Originals/Ralph Lauren→Robô 7 em 16/07/2026 -->
+Por esporte, pode incluir 1-2 marcas específicas do nicho (ex.: marca de padel) marcadas como "adicional da rodada".
+
+**Nas marcas "só por gênero":** aplicar o mesmo método (3 mais vendidos + 3 novidades) direto no catálogo de VESTUÁRIO da marca, dividido por gênero — sem passar pelos 5 esportes. A ficha registra o esporte/uso quando identificável. **Na lente casual**, os campos técnicos da ficha (funcionalidades) podem ser enxutos; a leitura estética (corte, padronagem, paleta, styling) é obrigatória e detalhada — é ela que o Estilista (Robô 8) consome.
 
 ## Método (por marca → por esporte → por gênero → 3 mais vendidos + 3 novidades) — RB-13 + RB-14
 0. **Só peça de vestuário.** Calçado (tênis) e acessório (bolsa, boné, meia, mochila, etc.) NÃO entram — nem como mais vendido nem como novidade. Filtrar antes de escolher os itens.

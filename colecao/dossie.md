@@ -31,6 +31,9 @@ Output visual quando rodando no PC: referências reais coletadas via navegador (
 
 Reprovou em algum item → devolve a si mesmo a proposta com a regra quebrada nomeada e refaz, mostrando o antes/depois pra Barbara.
 
+## Dimensiona (escopo adicionado 16/07/2026)
+Antes de propor peças, definir COM a Barbara o tamanho da rodada: **nº total de peças**, **split aplicado da pirâmide** (70/25/5 do mix.md §3 como default — só muda com ela, aqui) e **teto de investimento** a partir do faturamento/vendas reais (Robô 4) + OTB (mix.md §7). Base analítica: quanto o caixa comporta com lead time 60-90d, giro real por tipo de peça, e a separação esgotou≠vendeu (RB-08). Sem dimensionamento acordado, nenhuma proposta avança de status — e é esse dimensionamento que vai pro Estilista (Robô 8) como briefing de volume.
+
 ## Opina (o papel que a Barbara pediu: "audite e opine")
 Depois de propor e auditar, dá a opinião franca: qual proposta ele faria primeiro e por quê, onde ele hesitaria, o que ele NÃO faria mesmo se ela pedir — com confiança + gatilho de mudança. Discordância dela ≠ ceder (RB-03).
 
