@@ -2,7 +2,12 @@
   "_meta": {
     "descricao": "Ledger de feedbacks de pessoas próximas à Barbara (cliente, amiga, família) sobre peças, caimento, cor, preço, marca. TODO robô lê os status 'novo' no preflight; o Robô 6 discute cada um com a Barbara antes de propor.",
     "registro": "data · quem · sobre (peça/esporte/geral) · o_que_disse · status",
-    "status_possiveis": ["novo", "discutido", "incorporado", "descartado"],
+    "status_possiveis": [
+      "novo",
+      "discutido",
+      "incorporado",
+      "descartado"
+    ],
     "regra": "Registrar na hora, em qualquer chat, via /colecao-feedback ou 'anota esse feedback'. Só o Robô 6 (com a Barbara) muda status, registrando motivo."
   },
   "feedbacks": [
@@ -11,105 +16,120 @@
       "quem": "Manuela Ferran",
       "sobre": "casaquinho leve / academia",
       "o_que_disse": "Pede casaquinho leve pra academia — função é barrar o ar condicionado, não frio de rua. Usa no início do treino e tira/amarra na cintura ao longo do treino.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Bloco cobertura leve (4 pedidos) — candidato a molde novo de rodada. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "David Capelo",
       "sobre": "logo/branding + coleção praia + academia (lifestyle)",
       "o_que_disse": "Acha a logo muito visível no peito, recomenda reduzir — cita Ricardo Almeida, Oficina e Foxton como referências sem logo grande no peito; prefere logo escondida, discreta ('no cantinho'). Deixou de comprar camisa da Oriba (SP) por logo grande/feia na barra, mesmo com caimento razoável. Acha que hoje o consumidor compra por tecido/caimento/gramatura diferenciados, não por logo estampada. Coleção de praia: achou bonita, mas não usaria com a logo do jeito que está — gosto minimalista. Crítica ao ensaio fotográfico: os dois modelos na canoa 'parecem iguais demais'. Em academia compra pouco, mas busca peça básica, tecido bom, caimento bacana — cita Track&Field como referência (caimento, tecido, sem 'frufru').",
-      "status": "novo"
+      "status": "discutido",
+      "resolucao": "Decisão Barbara 16/07: logo tom sobre tom no máximo; sem logo só em peça muito técnica; reavaliar com dados do Robô 2 (pendente)."
     },
     {
       "data": "2026-07-16",
       "quem": "Juliana Lemos",
       "sobre": "corta-vento / corrida + academia",
       "o_que_disse": "Pergunta se a Wintors já tem corta-vento.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Bloco cobertura leve. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Matheus Ponte",
       "sobre": "blusa leve, short com forro tradicional, bolsos / corrida + academia (+ Hyrox)",
       "o_que_disse": "1ª leva (áudio): gosta em geral, principalmente pra academia e corrida; em treino mais forte prefere roupa mais leve, especificamente na blusa (não no short); sugere tecido mais leve tipo Track&Field; sugere levar a linha 'estilo Luana' (bege) pro masculino. 2ª leva (texto): prefere short com cueca interna tradicional, sem compressão por baixo (compressão enrola no treino/corrida) — referência: marca Track; tecido leve, respirável, secagem rápida; bolsos funcionais (chave/gel/celular na corrida, bola de tênis/padel); liberdade de movimento e resistência ao atrito na coxa interna/quadril; sugere linha nova pra Hyrox. Elogio forte de marca, comunicação e posicionamento.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Tecido leve = regra de tecido; short forro tradicional + bolsos = candidato a nova versão. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Vanessa Rocha",
       "sobre": "cores + tops / geral (esporte não informado)",
       "o_que_disse": "Pede coleção em cores quentes: marrom, terracota, bordô chique. Pede tops com alça mais fina/delicada.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Cores quentes → cartela de rodada. Alça fina: Barbara confirma que foram 2 pessoas (2ª não registrada no ledger). 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Mirella Nóbrega",
       "sobre": "macaquinho, casaquinho, sainha, vestidinho / tênis",
       "o_que_disse": "Elogio forte à modelagem, 'apaixonada'. Sente falta de macaquinho e casaquinho de treino. Quer mais opções de sainha pra tênis. Pediu vestidinho também.",
-      "status": "novo"
+      "status": "discutido",
+      "resolucao": "Casaquinho incorporado (bloco cobertura); macaquinho/sainha/vestidinho = candidatas na proposta de peças. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Caterina Vieira",
       "sobre": "cores, bojo removível, macacão retrô / geral (esporte não informado)",
       "o_que_disse": "Elogio: qualidade e caimento das peças que comprou, muito bons. Cor: tom retrô/neutro, marrom — diz que está em alta. Funcionalidade: bojo removível nos tops femininos — agrada quem gosta e quem não gosta de bojo. Produto: macacões/macaquitos, puxando pra estética retrô de natação.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Cores retrô/marrom → cartela; bojo removível = nota técnica pro Estilista; macacão retrô = candidata. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Sabrina",
       "sobre": "short (foto), top reto, tecido de legging / academia",
       "o_que_disse": "Não usa muito short, mas o short não vestiu bem na modelo das últimas fotos — isso pesa na decisão de compra dela mesmo com modelagem boa. Top favorito é um modelo da Track&Field, reto, sem recorte 'nadador' nas costas — achou confortável e bonito, se ofereceu pra mandar referência. Legging: prefere tecido tipo 'Lupo' (que a Track&Field também usa) ou tecido fino tipo Nike, fácil de vestir.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Nota técnica (foto/modelo); top reto sem nadador = candidata; tecido legging = regra de tecido. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Milena Henrique (relatando Mona)",
       "sobre": "grade/modelagem pra corpos altos / academia, tênis e corrida",
       "o_que_disse": "Deu uma peça pra amiga (Mona), bem mais alta que ela. Mona achou a qualidade muito boa, mas a modelagem muito pequena pro corpo dela. Milena atribui a isso um possível padrão de grade pensado pra corpo pequeno — detalhe exato ainda pendente de confirmação.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Nota técnica de modelagem (corpos altos) pro Estilista. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Biazinha",
       "sobre": "geral (esporte não confirmado)",
       "o_que_disse": "Fã da marca, elogio forte de qualidade — usa o conjunto com frequência e é reconhecida por ele. Valoriza a versatilidade trabalho↔treino como diferencial real da marca. Ela e uma amiga (Luisa) acompanham o site com frequência e comentam sobre as peças. Gosta da bermudinha coladinha e da regatinha atuais. Não trouxe pedido de mudança; disse que ia pensar e podia voltar com algo.",
-      "status": "novo"
+      "status": "discutido",
+      "resolucao": "Validação de marca, sem ação. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Lucas Melo",
       "sobre": "short, boné, blusa de malha fria / academia (usa pra trabalhar também)",
       "o_que_disse": "Usa bastante o short, gostou. Adora boné, ainda não tem — vai olhar na próxima compra. Pede blusa de malha fria, tecido tipo a t-shirt 'casual' da Track&Field/Insider — ama esse tecido, usa pra trabalhar e malhar.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Malha fria = regra de tecido; boné = nota de acessório. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Contato +55 84 99692-7887 (nome pendente)",
       "sobre": "tecido camisa do campeonato, cropped, vestidinho / geral (esporte não informado)",
       "o_que_disse": "Amou o tecido da 'camisa do campeonato', viu outras pessoas elogiando também. Sugere modelos cropped na parte de cima, já que as peças de baixo já são cintura alta. Pediu vestidinhos também.",
-      "status": "novo"
+      "status": "discutido",
+      "resolucao": "Cropped/vestidinho = candidatas na proposta; tecido campeonato = validação. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Luana",
       "sobre": "cintura alta, forro do short PP, regata malha fria / corrida + musculação",
       "o_que_disse": "Elogio forte, é exigente e 'não acha o que criticar'. Gosta muito da cintura alta firme (diferencia de cintura alta ruim). Tecido não transparente, short não pesado. Detalhe técnico: o short interno (forro) subiu durante o treino — atribui ao comprimento do forro no tamanho PP não acompanhar o quadril/glúteo dela; não foi incômodo grave, mas é dado de modelagem. Regata nova de malha 'friazinha' foi melhor avaliada que a versão preta em tecido e caimento; ainda não testou o modelo de manga.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Nota técnica (forro PP); valida malha fria e cintura alta. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "WC Luana Bezerra (grupo amigos do pilates)",
       "sobre": "short, regatinha decote quadrado, cor bordô, casaco híbrido / pilates (+ corrida)",
       "o_que_disse": "Reconhece que o short novo já ficou mais leve pra corrida; ama a regatinha azul e a blusa nova; quer mais modelos de regatinha, principalmente decote quadrado; sugere cor bordô/vermelho; cita referência — casaco visto na Riachuelo, 'meio tecnológico, meio saída, meio esporte'.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Bordô → cartela; regatinha decote quadrado = candidata; casaco híbrido → bloco cobertura. 16/07."
     },
     {
       "data": "2026-07-16",
       "quem": "Expedito Neto (grupo amigos do pilates)",
       "sobre": "camisa tecnológica versátil, boné / pilates",
       "o_que_disse": "Sugere camisa tecnológica pra esporte com possibilidade de 'sair depois' (versatilidade dia a dia), detalhe nas costas, símbolo da marca discreto na frente; sugere bonés pra esporte.",
-      "status": "novo"
+      "status": "incorporado",
+      "resolucao": "Camisa tecnológica versátil → regra tecido/versatilidade; boné = nota. 16/07."
     }
   ]
 }
