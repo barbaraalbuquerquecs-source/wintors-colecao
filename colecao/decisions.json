@@ -3,5 +3,32 @@
     "descricao": "Ledger de decisões de coleção do Robô 6. Toda proposta vira registro com id e status; a cobrança da rodada seguinte parte daqui, não da releitura do relatório antigo.",
     "ciclo_de_vida": "proposta → aprovada → em_producao → lancada → medindo → concluida | abandonada"
   },
-  "decisoes": []
+  "decisoes": [
+    {
+      "id": "D-001",
+      "data": "2026-07-16",
+      "tipo": "estrutura",
+      "titulo": "Estrutura fixa da coleção mensal (dimensionamento v4)",
+      "status": "aprovada",
+      "decisao": {
+        "cadencia": "Coleção MENSAL, 4-5 lançamentos-peça por mês, 1 drop por semana. Cadência mensal mantida por exigência da Barbara + cultura BR de novidade constante (LIVE! novidades da semana, T&F New In, pressão fast fashion — fontes citadas na conversa 16/07).",
+        "regra_genero": "Todo mês, CADA gênero recebe molde novo OU cor nova (mín. 1 fem, 1 masc). Nunca um mês em que um gênero só vê reposição. Regra formulada pela Barbara.",
+        "moldes_novos": "1-2 por mês no máximo. Quando só 1: o outro gênero recebe cor nova naquele mês e molde novo no seguinte (alternância). Lançamento ≠ molde novo — insight central do dimensionamento.",
+        "composicao_tipica": "1 molde novo + 1-2 cores novas (molde pago) + 1 'de volta' (reposição de vencedor) + opcional 1 nova versão.",
+        "conjunto_look": "Todo drop fotografado como LOOK COMPLETO mesclando peça lançada + molde pago + cor nova + peça de linha, na cartela do mês (2-3 neutras + 1-2 cores de momento). Conjunto é curadoria de vitrine, NÃO produção extra (correção da Barbara sobre a v3).",
+        "teto_investimento": "35-40% do faturamento do mês anterior (autofinanciado, zero caixa novo — exigência dela: 'caixa comprometido não aguento mais'). Lotes 6-10 un. Custo mês-padrão ~R$1,4-1,9k com custo médio real R$56/un (CUSTOS WC.xlsx, 28 peças, min R$32 / max R$103).",
+        "grade": "Profundidade nos tamanhos que vendem (G/GG masc, P fem — apontamento 9 do R4 13/07). Cor comprovada funda, cor de tendência rasa.",
+        "intocavel": "Reposição de vencedor esgotado entra ANTES de qualquer novidade no teto (condição do Robô 6, apontamento 1 do R4 — Raglan masc ST 55% esgotada G/GG).",
+        "piramide": "Molde novo é básico na maioria dos meses; fashion quando houver sinal; conceito máx. 1 a cada 2-3 meses. Converge pro 70/25/5 do mix.md §3."
+      },
+      "gatilhos_de_revisao": [
+        "Faturamento >R$8k/mês por 2 meses seguidos → 2 moldes novos mensais (um por gênero) viram o padrão.",
+        "Masculino >35% da receita por 2 meses → alternância de molde novo vira 1:1.",
+        "Percentual do teto (35-40%) é chute calibrado — revisar depois de 1 rodada medida."
+      ],
+      "base": "Robô 4 2026-07-13 (receita 12m R$15.959, fem 49%/masc 23%/unissex 28%, sell-through e capital parado) + CUSTOS WC.xlsx (16/07) + pesquisa cultura BR de drops (16/07, fontes LIVE!/T&F/Central do Varejo/Shopify BR) + mix.md aprovado 13/07.",
+      "resposta_barbara": "'ok!' em 16/07/2026, após 5 rodadas de ajuste. Correções dela no caminho: cadência mensal inegociável (cultura BR); 4-5 lançamentos ≠ 4-5 moldes novos; previsibilidade de custo; dois gêneros todo mês; conjunto/look como curadoria sem aumentar produção.",
+      "proximo_passo": "Discutir os 15 feedbacks status 'novo' de context/feedbacks.json ANTES de propor as peças que preenchem os slots de ago/set."
+    }
+  ]
 }
