@@ -31,15 +31,15 @@
 | Cápsula de design O_I 26_27_ moda esportiva feminina – Esportes escolares - WGSN Fashion Design.pdf | 1VyL7pptOfjrXDgSqIdj75hYqyljZmaIV | O/I 26/27 | Estética varsity/letterman, Copa do Mundo Rugby Fem 2025, fandom feminino |
 | Cápsula de design P_V 26_ masculino – Bem-estar lento - WGSN Fashion Design.pdf | 1e7O8YM5buBe-9CYjtI8fbpixRJxAa9qB | P/V 26 | Pilates reformer +74%, ioga +9,9% EUA, masculinidade positiva, mercado bem-estar masc. US$2,57tri até 2029 |
 | Cápsula de design_ Malhas masculinas e Jersey Blokecore O_I 26_27 - WGSN Fashion Design.pdf | 1EaRR7huLSAUmPjhgAyL-SQyVlXFWk4Oh | O/I 26/27 | Blokecore, Copa 2026, camisas retrô, moletom capuz +17,4% |
-| Cápsula de design O_I 26_27_ masculino e jovem – Retrô indulgente - WGSN Fashion Design.pdf | 1COkwQ_eNFHEm0ZB7Aep4KkWlRS4IgyFF | O/I 26/27 | Anos 70-80, jaqueta aviador peça de investimento, cardigã +2,9pp — **cruza estética com "clube 70-90" da marca** |
-| Cápsula de design P_V 26_ masculino – Clássicos modernos - WGSN Fashion Design.pdf | 1swMcL77XT6E2l8wHZkqa6iEG1D1_DBut | P/V 26 | #ReworkedClassics; menciona explicitamente efeito "#SportSmart com influências #Clubhouse" |
+| Cápsula de design O_I 26_27_ masculino e jovem – Retrô indulgente - WGSN Fashion Design.pdf | 1COkwQ_eNFHEm0ZB7Aep4KkWlRS4IgyFF | O/I 26/27 | Moda festa/ocasião anos 70-80 (#ModernOccasion), jaqueta aviador peça de investimento, cardigã +2,9pp, #TrackSuit de luxo #Sportcore — glamour retrô de festa, não é estética de clube/tênis (corrigido 21/07) |
+| Cápsula de design P_V 26_ masculino – Clássicos modernos - WGSN Fashion Design.pdf | 1swMcL77XT6E2l8wHZkqa6iEG1D1_DBut | P/V 26 | #ReworkedClassics — alfaiataria/workwear básica revigorada (camisa linho, short utilitário, colete suéter, calça slim, jaqueta modular 4 bolsos); **correção 21/07: não contém "#SportSmart"/"#Clubhouse" como constava antes — checado no texto completo, não é fonte de tenniscore** |
 
 ## 3. Previsões de Moda Esportiva / Cores (PRIORIDADE ALTA)
 
 | Título exato | fileId | Temporada | O que cobre |
 |---|---|---|---|
-| Previsão de moda esportiva P_V 26_ Paradoxo criativo - WGSN Fashion Design.pdf | 1qhoyvRb3cfuFUDLJ4Teszx27MmI4QE4N | P/V 26 | Tema macro: nostalgia analógica, microalegrias, artesanato |
-| Previsão de moda esportiva P_V 26_ Extra-Ordinário - WGSN Fashion Design.pdf | 1bSHfDlPii5Ql2DQ5KXWIbtZWX4DCH2y8 | P/V 26 | Tema macro: básicos atualizados, circularidade, "vida útil perene" |
+| Previsão de moda esportiva P_V 26_ Paradoxo criativo - WGSN Fashion Design.pdf | 1qhoyvRb3cfuFUDLJ4Teszx27MmI4QE4N | P/V 26 | Nostalgia analógica, microalegrias, artesanato — **contém o tema "Dias de Clube" ("evolução dos looks de tênis", vestidos de tênis, xadrez/renda, "relevante para esportes de raquete/gramado/críquete/golfe") e "Aula de Ginástica" (varsity/letterman anos 70-80) — a fonte mais próxima de tenniscore no acervo, ver seção Raquete do digest, achado adicionado 21/07** |
+| Previsão de moda esportiva P_V 26_ Extra-Ordinário - WGSN Fashion Design.pdf | 1bSHfDlPii5Ql2DQ5KXWIbtZWX4DCH2y8 | P/V 26 | Básicos atualizados, circularidade, "vida útil perene" — contém tema "Neo-uniformes" (golfe/tênis smart-casual quadra↔escritório) |
 | Previsão de cores P_V 26_ feminino - WGSN Fashion Design.pdf | 1XyqqiSSreZH-un1FegyQDzosTVCbocoA | P/V 26 | Cor do ano Transformative Teal + Electric Fuchsia/Amber Haze/Blue Aura; pastéis #NuHistorics |
 | Previsão de cores P_V 26_ masculino - WGSN Fashion Design.pdf | 1Ih9BDb8NsaBW7h4kSt9lbPMw3AxmXJXu | P/V 26 | Mesmas 5 cores-chave + neutros meditativos (Olive Stone, Dusted Ochre, Chocolate Sauce) |
 | Resumo aos compradores P_V 26_ masculino - Cores - WGSN Fashion Design.pdf | 1Gh8ixZqGMB9Kx58gkJX6SafGGRD9LITS | P/V 26 | Dynamic Yellow, Dusted Grape; alerta de tarifas puxando pra tons neutros/escuros |
